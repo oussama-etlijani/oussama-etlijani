@@ -35,15 +35,6 @@ This profile mostly hosts things I build outside of work to learn new tools and 
 
 ---
 
-### 📌 A few pinned repos, briefly
-
-- **PatternJourney** — working through classical software design patterns in Python, alongside my Design Patterns certification
-- **IoTExperimentsLab** — experimenting with MQTT and TimescaleDB for time-series data handling, in parallel with the industrial data pipelines I build at work
-
-### 📝 Publications
-
-Co-author on five peer-reviewed conference papers spanning automated fiber placement quality inspection, digital twins, and sustainable supply chain assessment (2022–2026). Details on [LinkedIn](https://www.linkedin.com/in/oetlijani/).
-
 ### 📫 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/oetlijani/) · oussama.etlijani@outlook.de
